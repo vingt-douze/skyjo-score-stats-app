@@ -1,1 +1,1 @@
-# Skyjo---Score-Stats
+# Skyjo - Score & Stats
